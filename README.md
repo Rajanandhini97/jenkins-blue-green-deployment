@@ -7,7 +7,7 @@
 - The setup is a simple web application powered by NGINX
 - Refer whole setup https://www.middlewareinventory.com/blog/aws-blue-green-deployment-jenkins/
 ```
-![Uploading blue-green.PNG…]()
+<img width="652" alt="blue-green" src="https://github.com/Rajanandhini97/jenkins-blue-green-deployment/assets/72840836/5b6a1f50-46bf-4320-b549-3a7f16d3307f">
 
 #### Jenkins
 ```
